@@ -1,0 +1,3 @@
+# Aplikasi utama tidak membutuhkan library eksternal (hanya Python 3.8+ dan Tkinter bawaan).
+# Pillow hanya dipakai opsional oleh tools/buat_aset.py untuk membuat ulang gambar placeholder.
+pillow
