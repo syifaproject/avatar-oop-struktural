@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="e861695e-5232-404c-9f1e-ac718c534516" src="https://github.com/user-attachments/assets/abad0849-0cbf-48a8-acdf-4e3199a5b3b7" />
 # Avatar Character Management System
 **Perbandingan Pemrograman Struktural dan OOP** (mini project Programming)
 
